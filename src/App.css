@@ -1,0 +1,31 @@
+.mid-div{
+  padding: 20px 0;
+}
+
+.preloader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.loader-heading{
+  text-align: center;
+  font-size: 40px;
+  color: red;
+}
+
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  padding-top: 100px;
+}
+
+.outer-div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  /* height: 100vh; */
+}
